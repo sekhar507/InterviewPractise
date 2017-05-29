@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;oh.first.Node.java&apos; to &apos;TreeNode.java&apos;&#x0D;&#x0A;- Original project: &apos;CoreJavaInterviewPGMS&apos;&#x0D;&#x0A;- Original element: &apos;oh.first.Node.java&apos;&#x0D;&#x0A;- Renamed element: &apos;oh.first.TreeNode.java&apos;" description="Rename compilation unit &apos;Node.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;oh.first{Node.java" name="TreeNode.java" references="false" stamp="1494608942807" version="1.0"/>
+</session>
